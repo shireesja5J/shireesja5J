@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shireesha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Web Online**
+- 🔭 I’m currently working on **Gen AI**
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 💬 Ask me about **java,DSA,CPP,mySQL**
+- 💬 Ask me about **Python,DSA,CPP,mySQL**
 
 - 📫 How to reach me **shirishajarpula78@gmail.com**
 
