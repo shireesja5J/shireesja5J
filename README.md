@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shireesha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI/ML Enginner from India</h3>
 
 - 🔭 I’m currently working on **Gen AI**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Advanced Technology**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 🤝 I’m looking for help with **Frontend**
+- 🤝 I’m looking for help with **LLM,RAG,Langchain,Langflow,ML**
 
-- 💬 Ask me about **Python,DSA,CPP,mySQL**
+- 💬 Ask me about **Python,DSA,CPP,SQL**
 
 - 📫 How to reach me **shirishajarpula78@gmail.com**
 
-- ⚡ Fun fact **How JavaScript got its name?**
+- ⚡ Fun fact **How PYTHON got its name?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
